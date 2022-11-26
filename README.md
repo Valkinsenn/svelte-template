@@ -4,7 +4,7 @@
 
 # Svelte App
 
-This is Valkinsenn's personal project template for [Svelte](https://svelte.dev) apps, modified from its [original version](https://github.com/sveltejs/template). It now lives [here](https://github.com/Valkinsenn/svelte-template).
+This is Valkinsenn's personal project template for [Svelte](https://svelte.dev) apps, modified from its <a href="https://github.com/sveltejs/template">original version</a>. It now lives [here](https://github.com/Valkinsenn/svelte-template).
 
 To create a new project in your current folder based on this template, use [degit](https://github.com/Rich-Harris/degit) in your terminal:
 
