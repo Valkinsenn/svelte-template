@@ -1,10 +1,10 @@
-# This is my own personal repo for Svelte being served via Rollup. Feel free to use this for creating and building Svelte apps as static websites, as that's what it's intended for.
+# Svelte Template (feat. Rollup, Tailwind CSS, and PostCSS)
 
 ---
 
 # Svelte App
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This is Valkinsenn's personal project template for [Svelte](https://svelte.dev) apps, modified from its original version. It now lives [here](https://github.com/Valkinsenn/svelte-template).
 
 To create a new project in your current folder based on this template, use [degit](https://github.com/Rich-Harris/degit) in your terminal:
 
