@@ -527,6 +527,36 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.uppercase {
-  text-transform: uppercase;
-}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Imported Stylesheets 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+/* ==========================================
+BASE IMPORTS
+========================================== */
+
+/* For all your basic, boilerplate styling used throughout an entire site, like typography. */
+
+/* ==========================================
+COMPONENTS IMPORTS
+========================================== */
+
+/* For all reusable components in a site, like forms, buttons, or profile pictures. */
+
+/* ==========================================
+LAYOUTS IMPORTS
+========================================== */
+
+/* For all structural layout styles, like navbars, headers, and footers. */
+
+/* ==========================================
+PAGES IMPORTS
+========================================== */
+
+/* For page-specific styles. */
+
+/* ==========================================
+UTILITIES IMPORTS
+========================================== */
+
+/* For all custom fonts, variables, and colors. */

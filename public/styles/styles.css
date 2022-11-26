@@ -6,22 +6,12 @@ TAILWIND DIRECTIVES
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-/* ================================================
-BASE IMPORTS
-================================================ */
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Imported Stylesheets 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
-/* ================================================
-COMPONENTS IMPORTS
-================================================ */
-
-/* ================================================
-LAYOUT IMPORTS
-================================================ */
-
-/* ================================================
-PAGES IMPORTS
-================================================ */
-
-/* ================================================
-UTILITIES IMPORTS
-================================================ */
+@import "./base/base_index.css";
+@import "./components/components_index.css";
+@import "./layouts/layouts_index.css";
+@import "./pages/pages_index.css";
+@import "./utilities/utilities_index.css";
