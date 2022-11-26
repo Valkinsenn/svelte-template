@@ -1,19 +1,18 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework and don't mind using pre-1.0 software — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+# This is my own personal repo for Svelte being served via Rollup. Feel free to use this for creating and building Svelte apps as static websites, as that's what it's intended for.
 
 ---
 
-# svelte app
+# Svelte App
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+To create a new project in your current folder based on this template, use [degit](https://github.com/Rich-Harris/degit) in your terminal:
 
 ```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
+npx degit Valkinsenn/svelte-template . --force
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+*NOTE: you will need to have [Node.js](https://nodejs.org) installed.*
 
 
 ## Get started
@@ -21,7 +20,6 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
 ```
 
